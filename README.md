@@ -13,7 +13,7 @@ Faça a checagem e organização de proxies HTTP, SOCKS4 e SOCKS5.
 
 Para fazer a instalação de todas as dependências e criar as pastas necessárias, apenas execute o arquivo  [setup.bat](setup.bat)., não é necessário executar como administrador.
 
-### Docker
+### Uso
 
 Após a instalação ser concluída será criada uma pasta chamada "input" nessa pasta você irá colocar seus arquivos de texto contendo os proxies, gostaria de lembrar de que os arquivos devem ser unicamente .txt e os proxies devem estar nos seguintes formatos abaixo
 

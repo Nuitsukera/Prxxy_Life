@@ -1,0 +1,14 @@
+# Deixe como "true" somente um dos métodos, o método ativado será utilizado para fazer a verificação dos proxies
+metodo:
+  ipstack: false
+  ipinfo: true
+
+# Obtenha sua chave de acesso acessando a seguinte url: https://ipstack.com/dashboard
+ipstack:
+  access_keys:
+    - xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+# Obtenha sua chave de acesso acessando a seguinte url: https://ipinfo.io/account/token
+ipinfo:
+  access_keys:
+    - xxxxxxxxxxxxxxxx
